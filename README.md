@@ -1,2 +1,2 @@
 # react-hot-plate
-Bologna &amp; Cheese
+react app boilerplate 
